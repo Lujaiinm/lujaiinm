@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Lujain and IM a programming student in Bahrain. <br>I'm currently learning Front-end development and on Figma.<br>I love to read and watch films a lot <3
+Hi, I'm Lujain and Im a programming student in Bahrain. <br>I'm currently learning and developing my skills as a Full Stack Developer.<br>I love to read, ride horses and watch films a lot <3
 
 
 # 💻 Tech Stack:
